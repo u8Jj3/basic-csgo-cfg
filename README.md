@@ -32,7 +32,7 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * `F7` Buy Kevlar Vest and Helmet.
 * `F8` Buy Defuse kit.
 
-## Some personnal Lauch options
+## Some personnal Settings
 1. `-high` Make your game launch in High priority.
 2. `-novid` Skip Valve shit intro.
 3. `-refresh 60` Force a specific refresh rate.
@@ -47,8 +47,10 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 `-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console -scaleform +exec autoexec`
 
+* I'm using [Simpleradar](http://www.simpleradar.com/) too.
+
+![test](https://i.imgur.com/GHQGqXQ.png)
+
 ## Contact
 
 If you need something you can add me on Discord: Lythed#7699
-
-
