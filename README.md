@@ -1,4 +1,12 @@
-# ^̮^
+<p align="center">
+  <img src="https://i.imgur.com/eI9JHdW.png">
+</p>
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-crayons.svg">
+  <img src="https://forthebadge.com/images/badges/for-you.svg">
+  <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+</p>
+
 > A simple autoexec.cfg that I use. Feel free to use it :)
 
 I've been using it for a while, I've updated it and decided to put it in public. :)
@@ -49,7 +57,7 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 * I'm using [Simpleradar](http://www.simpleradar.com/) too.
 
-![test](https://i.imgur.com/GHQGqXQ.png)
+![simpleradar-picture](https://i.imgur.com/GHQGqXQ.png)
 
 ## Contact
 
