@@ -24,11 +24,13 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 > Features
 * Net_graph when scoreboard is activated.
 * All Damage given when you die in top-left.
+* Script to Activate/Desactive Clutch Mode.
 * You can view the entire map on the radar.
 * Optimized to increase in-game FPS.
-* Some useful binds.
+* Some useful buy binds.
 
 > Binds and Buy Binds
+* `KP_HOME (Numpad 7)` Activate/Desactive Clutch mode.
 * `TAB` Scoreboard (and net_graph).
 * `µ` Console.
 * `F1` Buy Molotov/Incendiary grenade
@@ -61,4 +63,4 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 ## Contact
 
-If you need something you can add me on Discord: Lythed#7699
+If you need something you can add me on Discord: Lythed#7699.
