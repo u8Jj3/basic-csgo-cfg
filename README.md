@@ -25,6 +25,7 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * Net_graph when scoreboard is activated.
 * All Damage given when you die in top-left.
 * Script to Activate/Desactive Clutch Mode.
+* Script for fast switch with AWP/SSG.
 * You can view the entire map on the radar.
 * Optimized to increase in-game FPS.
 * Some useful buy binds.
