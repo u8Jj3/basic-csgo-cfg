@@ -31,9 +31,10 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 > Binds and Buy Binds
 * `KP_HOME (Numpad 7)` Activate/Desactive Clutch mode.
+* `MOUSE4` Switch to your Knife then AWP/SSG.
 * `TAB` Scoreboard (and net_graph).
 * `µ` Console.
-* `F1` Buy Molotov/Incendiary grenade
+* `F1` Buy Molotov/Incendiary grenade.
 * `F2` Buy Flashbang.
 * `F3` Buy HE grenade.
 * `F4` Buy Smoke grenade.
@@ -43,6 +44,8 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * `F8` Buy Defuse kit.
 
 ## Some personnal Settings
+* Resolution: `4:3 1024x768`
+
 1. `-high` Make your game launch in High priority.
 2. `-novid` Skip Valve shit intro.
 3. `-refresh 60` Force a specific refresh rate.
