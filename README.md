@@ -67,4 +67,4 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 ## Contact
 
-If you need something you can add me on Discord: Lythed#7699.
+If you need something you can add me on Discord: ｘｘ#7699.
