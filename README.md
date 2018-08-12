@@ -31,18 +31,18 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * Some useful buy binds.
 
 > Binds and Buy Binds
-* `KP_HOME (Numpad 7)` Activate/Desactive Clutch mode.
 * `MOUSE4` Switch to your Knife then AWP/SSG.
 * `TAB` Scoreboard (and net_graph).
 * `µ` Console.
-* `F1` Buy Molotov/Incendiary grenade.
-* `F2` Buy Flashbang.
-* `F3` Buy HE grenade.
-* `F4` Buy Smoke grenade.
-* `F5` Buy Decoy.
-* `F6` Buy Kevlar Vest.
-* `F7` Buy Kevlar Vest and Helmet.
-* `F8` Buy Defuse kit.
+* `KP_HOME (Numpad 7)` Activate/Desactive Clutch mode.
+* `KP_END (Numpad 1)` Buy Molotov/Incendiary grenade.
+* `KP_DOWNARROW (Numpad 2)` Buy Flashbang.
+* `KP_PGDN (Numpad 3)` Buy Smoke grenade.
+* `KP_5 (Numpad 5)` Buy HE grenade.
+* `KP_RIGHTARROW (Numpad 6)` Buy Decoy.
+* `KP_LEFTARROW (Numpad 4)` Buy Defuse kit.
+* `KP_UPARROW (Numpad 8)` Buy Kevlar Vest.
+* `KP_PGUP (Numpad 9)` Buy Kevlar Vest and Helmet.
 
 ## Some personnal Settings
 * Resolution: `4:3 1024x768`
