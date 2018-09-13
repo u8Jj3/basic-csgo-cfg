@@ -35,11 +35,11 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * `TAB` Scoreboard (and net_graph).
 * `µ` Console.
 * `KP_HOME (Numpad 7)` Activate/Desactive Clutch mode.
-* `KP_END (Numpad 1)` Buy Molotov/Incendiary grenade.
-* `KP_DOWNARROW (Numpad 2)` Buy Flashbang.
-* `KP_PGDN (Numpad 3)` Buy Smoke grenade.
-* `KP_5 (Numpad 5)` Buy HE grenade.
-* `KP_RIGHTARROW (Numpad 6)` Buy Decoy.
+* `KP_END (Numpad 1)` Buy 1x Molotov/Incendiary grenade.
+* `KP_DOWNARROW (Numpad 2)` Buy 1x Flashbang.
+* `KP_PGDN (Numpad 3)` Buy 1x Smoke grenade.
+* `KP_5 (Numpad 5)` Buy 1x HE grenade.
+* `KP_RIGHTARROW (Numpad 6)` Buy 1x Decoy.
 * `KP_LEFTARROW (Numpad 4)` Buy Defuse kit.
 * `KP_UPARROW (Numpad 8)` Buy Kevlar Vest.
 * `KP_PGUP (Numpad 9)` Buy Kevlar Vest and Helmet.
@@ -56,10 +56,10 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 7. `-nojoy` Disable Joystick support.
 8. `-console` Show the console when your game start.
 9. `-language english` You now.
-10. `-scaleform` Use non-panorama CS:GO version.
+10. `-scaleform` ~~Use non-panorama CS:GO version~~. Old UI is gone guys. ⚰️
 11. `+exec autoexec` Execute the autoexec.cfg.
 
-`-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console -scaleform +exec autoexec`
+`-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console +exec autoexec`
 
 * I'm using [Simpleradar](http://www.simpleradar.com/) too.
 
@@ -67,4 +67,4 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 
 ## Contact
 
-If you need something you can add me on Discord: ｘｘ#7699.
+If you need something you can add me on Discord: Lythed#7699.
