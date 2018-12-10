@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/eI9JHdW.png">
+  <img src="https://i.imgur.com/kGGI7YQ.png">
 </p>
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-crayons.svg">
-  <img src="https://forthebadge.com/images/badges/for-you.svg">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+  <img src="https://forthebadge.com/images/badges/ages-18.svg">
+  <img src="https://forthebadge.com/images/badges/kinda-sfw.svg">
+  <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg">
 </p>
 
 > A simple autoexec.cfg that I use. Feel free to use it :)
@@ -19,6 +19,8 @@ Download and place the `autoexec.cfg` in your `\Steam\steamapps\common\Counter-S
 To execute the cfg, open your in-game console and type `exec autoexec`.
 
 (You can add `+exec autoexec` to your CS:GO launch options to execute automatically the cfg.)
+
+⚠️ If you launch the autoexec.cfg, your config will be replaced with the new one. Take a backup if needed!
 
 ## Features, Binds
 > Features
@@ -45,7 +47,7 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * `KP_PGUP (Numpad 9)` Buy Kevlar Vest and Helmet.
 
 ## Some personnal Settings
-* Resolution: `4:3 1024x768`
+* Resolution: `4:3 1280x1024`
 
 1. `-high` Make your game launch in High priority.
 2. `-novid` Skip Valve shit intro.
@@ -55,11 +57,15 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 6. `-lv` Make your game run a low violence version.
 7. `-nojoy` Disable Joystick support.
 8. `-console` Show the console when your game start.
-9. `-language english` You now.
-10. `-scaleform` ~~Use non-panorama CS:GO version~~. Old UI is gone guys. ⚰️
+9. `-language english` Force the game to display English Language.
 11. `+exec autoexec` Execute the autoexec.cfg.
 
 `-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console +exec autoexec`
+
+## Other Tweaks
+* [VibranceGUI](https://vibrancegui.com/), Increase saturation of the game. (Not only for CS:GO btw)
+
+* [Text Color Mod](https://bananagaming.tv/textcolormod.php), Tweak and Add some colors to the chat.
 
 * I'm using [Simpleradar](http://www.simpleradar.com/) too.
 
