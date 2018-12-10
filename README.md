@@ -7,7 +7,7 @@
   <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg">
 </p>
 
-> A simple autoexec.cfg that I use. Feel free to use it :)
+> A simple [autoexec.cfg](https://raw.githubusercontent.com/Lythed/basic-csgo-cfg/master/autoexec.cfg) that I use. Feel free to use it :)
 
 I've been using it for a while, I've updated it and decided to put it in public. :)
 The CFG is simple, it holds in one file and no need for more for my use. btw you can change the cfg as you like. 👍
