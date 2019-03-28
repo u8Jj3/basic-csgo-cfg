@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/kGGI7YQ.png">
-</p>
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/ages-18.svg">
-  <img src="https://forthebadge.com/images/badges/kinda-sfw.svg">
-  <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
 
 > A simple [autoexec.cfg](https://raw.githubusercontent.com/Lythed/basic-csgo-cfg/master/autoexec.cfg) that I use. Feel free to use it :)
@@ -50,8 +45,8 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 * Resolution: `4:3 1280x1024`
 
 1. `-high` Make your game launch in High priority.
-2. `-novid` Skip Valve shit intro.
-3. `-refresh 60` Force a specific refresh rate.
+2. `-novid` Skip Valve intro.
+3. `-refresh 60` Force a specific refresh rate. (60 in this case)
 4. `-tickrate 128` Run private server at 128 tickrate.
 5. `-nod3d9ex1` Make Alt-Tab faster?
 6. `-lv` Make your game run a low violence version.
@@ -63,14 +58,10 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 `-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console +exec autoexec`
 
 ## Other Tweaks
-* [VibranceGUI](https://vibrancegui.com/), Increase saturation of the game. (Not only for CS:GO btw)
+* [VibranceGUI](https://vibrancegui.com/), Increase saturation of the game. (Not only for CS:GO)
 
 * [Text Color Mod](https://bananagaming.tv/textcolormod.php), Tweak and Add some colors to the chat.
 
 * I'm using [Simpleradar](http://www.simpleradar.com/) too.
 
 ![simpleradar-picture](https://i.imgur.com/GHQGqXQ.png)
-
-## Contact
-
-If you need something you can add me on Discord: Lythed#7699.
