@@ -48,14 +48,14 @@ To execute the cfg, open your in-game console and type `exec autoexec`.
 2. `-novid` Skip Valve intro.
 3. `-refresh 60` Force a specific refresh rate. (60 in this case)
 4. `-tickrate 128` Run private server at 128 tickrate.
-5. `-nod3d9ex1` Make Alt-Tab faster?
+5. `-d3d9ex` Should increase FPS and make Alt-tab faster.
 6. `-lv` Make your game run a low violence version.
 7. `-nojoy` Disable Joystick support.
 8. `-console` Show the console when your game start.
 9. `-language english` Force the game to display English Language.
 11. `+exec autoexec` Execute the autoexec.cfg.
 
-`-high -novid -refresh 60 -tickrate 128 -nod3d9ex1 -lv -nojoy -language english -console +exec autoexec`
+`-high -novid -refresh 60 -tickrate 128 -d3d9ex -lv -nojoy -language english -console +exec autoexec`
 
 ## Other Tweaks
 * [VibranceGUI](https://vibrancegui.com/), Increase saturation of the game. (Not only for CS:GO)
